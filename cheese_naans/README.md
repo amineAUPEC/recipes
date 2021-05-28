@@ -18,14 +18,14 @@ inspired by [Ma cabane aux delices](https://youtu.be/CM4Qz-Lpnfo)
 
 What?         | How Many?
 ------------- | --------------
-eggs          | 2
+eggs          | 20
 yogurts       | 2 (== 250gr)
 thick cream   | 1 tablespoon
 baking powder | 1/2 sachet
 slat          | 9gr
-flour (t55)   | 400gr
+flour (t55)   | 500gr
 olive oil     | 1 tablespoon
-fetat         | 150gr
+fetat         | 160gr
 comté         | 250gr
 butter        | *some* to cook
 
