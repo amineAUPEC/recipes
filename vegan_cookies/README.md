@@ -14,7 +14,7 @@ inspired by [lafeestephanie.com](http://www.lafeestephanie.com/2017/04/recette-d
 
 ## Ingredients
 
-~ 8 vegan cookies
+~ 18 vegan cookies
 
 What?           | How Many?
 --------------- | ---------------
